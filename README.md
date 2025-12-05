@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas de Jesus ✋
-Tenho 20 anos e atualmente estou cursando 7º semestre de Engenharia de Software.🧑🏽‍💻
+Tenho 21 anos e atualmente estou cursando 8º semestre de Engenharia de Software.🧑🏽‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucaswkk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
